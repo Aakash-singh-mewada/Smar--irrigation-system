@@ -1,0 +1,4 @@
+# Core simulator uses only the Python standard library (Python 3.8+).
+# Optional:
+matplotlib>=3.5   # for --plot graphs
+pytest>=7.0       # for running tests
