@@ -2,7 +2,7 @@
 
 A Python project that decides **when to water a field** using soil moisture, temperature and rain forecast, and compares itself against a traditional fixed timer. It runs entirely as a simulation (no hardware needed) and also includes an Arduino sketch showing how the same logic runs on real hardware.
 
-> **VITyarthi Project** · Name: `[Your Name]` · Reg. No: `[Your Reg No]` · Course: `[Course Name]`
+> **VITyarthi Project** · Name: `[Aakash Mewada]` · Reg. No: `[26MIM10101]` · Course: `[Introduction to problem solving & programming CSE1021]`
 
 ---
 
